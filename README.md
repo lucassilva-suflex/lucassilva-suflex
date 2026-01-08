@@ -1,16 +1,15 @@
-## Hi there 👋
+Engenheiro de Software | Full Stack Developer | Mobile Development
 
-<!--
-**lucassilva-suflex/lucassilva-suflex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Engenheiro de Software com experiência em desenvolvimento Full Stack, arquitetura de sistemas, gestão de equipes e aplicações móveis. Atuo em todo o ciclo de vida do software — da análise e modelagem à entrega em produção — utilizando metodologias ágeis e práticas de DevOps para garantir escalabilidade, performance e qualidade.
 
-Here are some ideas to get you started:
+Competências-chave:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens & Frameworks: PHP (Laravel), TypeScript (NestJS, Vue.js, React), React Native, Python, Rust
+
+Bancos de Dados: MySQL, PostgreSQL, Redis (NoSQL)
+
+DevOps & Infra: Docker, VPS, CI/CD, AWS
+
+Metodologias: Scrum, Kanban
+
+Especialidades: APIs RESTful, Microservices, SaaS, White Label, Pagamentos Digitais (PIX), Automação
